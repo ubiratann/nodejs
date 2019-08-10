@@ -1,0 +1,6 @@
+var somafunc = require("./soma")
+var subfunc = require("./sub")
+var multfunc = require("./multi")
+console.log(somafunc(1,2))
+console.log(subfunc(3,2))
+console.log(multfunc(10,1000))
